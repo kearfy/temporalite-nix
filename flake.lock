@@ -17,11 +17,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1653296855,
-        "narHash": "sha256-aG38USWHPbBIKgOmK4E0hlq9Ip/nJM6Cg+jgAYZ57yo=",
+        "lastModified": 1653326962,
+        "narHash": "sha256-W8feCYqKTsMre4nAEpv5Kx1PVFC+hao/LwqtB2Wci/8=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "ad532c1d80c5a78804894a5db3fcca5dfd1d5851",
+        "rev": "41cc1d5d9584103be4108c1815c350e07c807036",
         "type": "github"
       },
       "original": {
@@ -40,17 +40,16 @@
     "temporalite": {
       "flake": false,
       "locked": {
-        "lastModified": 1651728381,
-        "narHash": "sha256-a0MzHLuNw/+VlPG+QO1QxEmalYk1qMVjjvBtL2pYqmQ=",
+        "lastModified": 1652239190,
+        "narHash": "sha256-r4YNhW3/i4M6KT1NPlHCG85ojyjY0fURBcS4MTZEW3c=",
         "owner": "DataDog",
         "repo": "temporalite",
-        "rev": "0797d11e124e64b068be86566ef6577d80563c9c",
+        "rev": "0e5171390aad62f0483d24afa48fd4208431f039",
         "type": "github"
       },
       "original": {
         "owner": "DataDog",
         "repo": "temporalite",
-        "rev": "0797d11e124e64b068be86566ef6577d80563c9c",
         "type": "github"
       }
     }
