@@ -15,7 +15,7 @@
                     name = "temporalite";
                     src = temporalite;
                     subPackages = [ "cmd/temporalite" ];
-                    vendorSha256 = "sha256-z8p9uyxxAiSV/zG1DqpQ01dALhVxjeGWQxOl4BP/BRU=";
+                    vendorSha256 = "sha256-pMS6g/4rBJT8oMKo6viJjl/+9oTSvcAcwTouwy7kj08=";
                     doCheck = false;
                 };
 
